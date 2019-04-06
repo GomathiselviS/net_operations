@@ -1,7 +1,7 @@
 net_operations
 =========
 
-This Ansible network role provides functionality to verify operational health of a service using simulated traffic. It does following tasks
+This Ansible Network role provides functionality to verify operational health of a service using simulated traffic. It does following tasks
 - prepares a list of flows by parsing a service configurations
 - sends flows from a traffic source
 - captures flows metadata on a remote device
