@@ -1,7 +1,0 @@
----
-- hosts: csr01
-  roles:
-    - net_operations
-  vars:
-    ansible_network_provider: gdpak.cisco_ios
-    static_analysis_check: True
